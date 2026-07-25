@@ -1,15 +1,14 @@
 {
-  "marketplaceMetadata": {
-    "name": "claude-marketplace",
-    "displayName": "Claude Marketplace",
-    "description": "Curated plugin bundles for common development workflows. Install an entire profile in one command.",
-    "owner": {
-      "name": "Ritesh Sonawala",
-      "email": "ritesh.sonawala@gmail.com"
-    },
-    "repository": "https://github.com/riteshsonawala/claude-marketplace",
-    "license": "MIT"
+  "name": "claude-marketplace",
+  "displayName": "Claude Marketplace",
+  "description": "Curated plugin bundles for common development workflows. Install an entire profile in one command.",
+  "owner": {
+    "name": "Ritesh Sonawala",
+    "email": "ritesh.sonawala@gmail.com",
+    "url": "https://github.com/riteshsonawala"
   },
+  "repository": "https://github.com/riteshsonawala/claude-marketplace",
+  "license": "MIT",
   "plugins": [
     {
       "name": "devops-bundle",
@@ -49,8 +48,7 @@
         "type": "relative",
         "path": "./plugins/data-science-bundle"
       }
-    }
-  ,
+    },
     {
       "name": "sample-bundle",
       "displayName": "Sample Bundle",
