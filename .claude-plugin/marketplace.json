@@ -50,5 +50,19 @@
         "path": "./plugins/data-science-bundle"
       }
     }
+  ,
+    {
+      "name": "sample-bundle",
+      "displayName": "Sample Bundle",
+      "description": "A minimal working example to test the marketplace setup end-to-end",
+      "version": "1.0.0",
+      "author": { "name": "Ritesh Sonawala" },
+      "license": "MIT",
+      "categories": ["sample"],
+      "source": {
+        "type": "relative",
+        "path": "./plugins/sample-bundle"
+      }
+    }
   ]
 }

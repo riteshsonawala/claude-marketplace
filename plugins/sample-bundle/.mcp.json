@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sample-utils": {
+      "command": "node",
+      "args": ["mcp/index.js"]
+    }
+  }
+}
