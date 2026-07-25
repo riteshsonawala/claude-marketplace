@@ -1,6 +1,6 @@
 {
-  "name": "claude-marketplace",
-  "displayName": "Claude Marketplace",
+  "name": "ritesh-plugin-marketplace",
+  "displayName": "Ritesh's Plugin Marketplace",
   "description": "Curated plugin bundles for common development workflows. Install an entire profile in one command.",
   "owner": {
     "name": "Ritesh Sonawala",
