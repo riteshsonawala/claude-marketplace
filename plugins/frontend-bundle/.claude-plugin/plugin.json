@@ -1,0 +1,13 @@
+{
+  "name": "frontend-bundle",
+  "displayName": "Frontend Bundle",
+  "description": "Browser automation, design tokens, and component scaffolding for frontend development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ritesh Sonawala",
+    "email": "ritesh.sonawala@gmail.com"
+  },
+  "license": "MIT",
+  "categories": ["frontend", "web"],
+  "defaultEnablement": true
+}

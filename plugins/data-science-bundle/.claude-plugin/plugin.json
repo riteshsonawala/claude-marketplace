@@ -1,0 +1,13 @@
+{
+  "name": "data-science-bundle",
+  "displayName": "Data Science Bundle",
+  "description": "Jupyter, pandas helpers, and data analysis tools for data science workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ritesh Sonawala",
+    "email": "ritesh.sonawala@gmail.com"
+  },
+  "license": "MIT",
+  "categories": ["data-science", "ml"],
+  "defaultEnablement": true
+}

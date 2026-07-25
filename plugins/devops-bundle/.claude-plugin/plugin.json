@@ -1,0 +1,13 @@
+{
+  "name": "devops-bundle",
+  "displayName": "DevOps Bundle",
+  "description": "Docker, Kubernetes, GitHub Actions, and CI/CD tools bundled for DevOps workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ritesh Sonawala",
+    "email": "ritesh.sonawala@gmail.com"
+  },
+  "license": "MIT",
+  "categories": ["devops", "infrastructure"],
+  "defaultEnablement": true
+}

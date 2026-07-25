@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "jupyter": {
+      "command": "npx",
+      "args": ["-y", "mcp-server-jupyter"],
+      "env": {
+        "JUPYTER_TOKEN": "${JUPYTER_TOKEN}"
+      }
+    },
+    "sqlite": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sqlite", "${DB_PATH}"]
+    }
+  }
+}

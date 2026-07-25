@@ -1,0 +1,54 @@
+{
+  "marketplaceMetadata": {
+    "name": "claude-marketplace",
+    "displayName": "Claude Marketplace",
+    "description": "Curated plugin bundles for common development workflows. Install an entire profile in one command.",
+    "owner": {
+      "name": "Ritesh Sonawala",
+      "email": "ritesh.sonawala@gmail.com"
+    },
+    "repository": "https://github.com/riteshsonawala/claude-marketplace",
+    "license": "MIT"
+  },
+  "plugins": [
+    {
+      "name": "devops-bundle",
+      "displayName": "DevOps Bundle",
+      "description": "Docker, Kubernetes, GitHub Actions, and CI/CD tools for DevOps workflows",
+      "version": "1.0.0",
+      "author": { "name": "Ritesh Sonawala" },
+      "license": "MIT",
+      "categories": ["devops", "infrastructure"],
+      "source": {
+        "type": "relative",
+        "path": "./plugins/devops-bundle"
+      }
+    },
+    {
+      "name": "frontend-bundle",
+      "displayName": "Frontend Bundle",
+      "description": "Browser automation, design tokens, and component scaffolding for frontend development",
+      "version": "1.0.0",
+      "author": { "name": "Ritesh Sonawala" },
+      "license": "MIT",
+      "categories": ["frontend", "web"],
+      "source": {
+        "type": "relative",
+        "path": "./plugins/frontend-bundle"
+      }
+    },
+    {
+      "name": "data-science-bundle",
+      "displayName": "Data Science Bundle",
+      "description": "Jupyter, pandas helpers, and data analysis tools for data science workflows",
+      "version": "1.0.0",
+      "author": { "name": "Ritesh Sonawala" },
+      "license": "MIT",
+      "categories": ["data-science", "ml"],
+      "source": {
+        "type": "relative",
+        "path": "./plugins/data-science-bundle"
+      }
+    }
+  ]
+}
