@@ -19,8 +19,10 @@
       "license": "MIT",
       "categories": ["devops", "infrastructure"],
       "source": {
-        "type": "relative",
-        "path": "./plugins/devops-bundle"
+        "type": "github",
+        "owner": "riteshsonawala",
+        "repo": "claude-marketplace",
+        "subdir": "plugins/devops-bundle"
       }
     },
     {
@@ -32,8 +34,10 @@
       "license": "MIT",
       "categories": ["frontend", "web"],
       "source": {
-        "type": "relative",
-        "path": "./plugins/frontend-bundle"
+        "type": "github",
+        "owner": "riteshsonawala",
+        "repo": "claude-marketplace",
+        "subdir": "plugins/frontend-bundle"
       }
     },
     {
@@ -45,8 +49,10 @@
       "license": "MIT",
       "categories": ["data-science", "ml"],
       "source": {
-        "type": "relative",
-        "path": "./plugins/data-science-bundle"
+        "type": "github",
+        "owner": "riteshsonawala",
+        "repo": "claude-marketplace",
+        "subdir": "plugins/data-science-bundle"
       }
     },
     {
@@ -58,8 +64,10 @@
       "license": "MIT",
       "categories": ["sample"],
       "source": {
-        "type": "relative",
-        "path": "./plugins/sample-bundle"
+        "type": "github",
+        "owner": "riteshsonawala",
+        "repo": "claude-marketplace",
+        "subdir": "plugins/sample-bundle"
       }
     }
   ]
