@@ -9,6 +9,7 @@
   "plugins": [
     {
       "name": "devops-bundle",
+      "displayName": "DevOps Bundle",
       "description": "Docker, Kubernetes, GitHub Actions, and CI/CD tools for DevOps workflows",
       "author": { "name": "Ritesh Sonawala" },
       "category": "devops",
@@ -21,6 +22,7 @@
     },
     {
       "name": "frontend-bundle",
+      "displayName": "Frontend Bundle",
       "description": "Browser automation, design tokens, and component scaffolding for frontend development",
       "author": { "name": "Ritesh Sonawala" },
       "category": "frontend",
@@ -33,6 +35,7 @@
     },
     {
       "name": "data-science-bundle",
+      "displayName": "Data Science Bundle",
       "description": "Jupyter, pandas helpers, and data analysis tools for data science workflows",
       "author": { "name": "Ritesh Sonawala" },
       "category": "data-science",
@@ -45,6 +48,7 @@
     },
     {
       "name": "sample-bundle",
+      "displayName": "Sample Bundle",
       "description": "A minimal working example to test the marketplace setup end-to-end",
       "author": { "name": "Ritesh Sonawala" },
       "category": "sample",
